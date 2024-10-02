@@ -1,8 +1,8 @@
-# React + Vite
+# SMVDU Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The SMVDU Website is a web application designed to provide information and services related to Shri Mata Vaishno Devi University (SMVDU). This platform serves students, faculty, and visitors by offering a user-friendly interface and easy access to essential resources.
+#output
+![Screenshot 2024-10-02 213102](https://github.com/user-attachments/assets/976c1082-8adc-456b-9c01-1f3e8e833c34)
+![Screenshot 2024-10-02 213218](https://github.com/user-attachments/assets/fe29a11b-0968-408a-8e18-0395d84a8bae)
+![Screenshot 2024-10-02 213253](https://github.com/user-attachments/assets/63653309-a8d6-4560-81ef-fca18ece735e)
+![Screenshot 2024-10-02 213330](https://github.com/user-attachments/assets/7435568d-45e4-40b0-8b5a-063309a5f3ce)
