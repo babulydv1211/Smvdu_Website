@@ -12,6 +12,21 @@ Here is a screenshot of the project's output:
 ![Screenshot 2024-10-02 213253](https://github.com/user-attachments/assets/63653309-a8d6-4560-81ef-fca18ece735e)
 ![Screenshot 2024-10-02 213330](https://github.com/user-attachments/assets/7435568d-45e4-40b0-8b5a-063309a5f3ce)
 
+
+## Features
+
+- Responsive design for desktop and mobile devices
+- Information about the university, courses, admissions, and events
+- Integrated contact form
+- Fast build and development experience using Vite
+
+
+## Tech Stack
+
+- **Frontend**: React.js, CSS3, HTML5, Vite
+- **Backend**: web3form
+- **Deployment**:  Vercel
+
 ## Installation
 
 To run this project locally, follow these steps:
