@@ -20,3 +20,7 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/babulydv1211/smvdu-website.git
    cd smvdu-website
+2.Install dependencies:
+npm install
+3.Start the development server:
+npm run dev
